@@ -75,7 +75,6 @@ int main()
             }
         }
     }
- 
     int k = dp[n-1][n-1][1] < dp[n-1][n-1][0];
     if(isZero && dp[n-1][n-1][k]){
         cout << 1 << endl;
