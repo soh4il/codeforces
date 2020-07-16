@@ -1,2 +1,2 @@
-# cf-sol
+# Codeforces solutions
  
