@@ -39,7 +39,6 @@ int solution1(vector<int> arr1,vector<int> arr2)
         count++;
     }
     return count;
-}
 
 int solution2(vector<int> arr1,vector<int> arr2)
 {
